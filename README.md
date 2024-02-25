@@ -1,2 +1,2 @@
-# heloo
+# jooe-testnet
 tea testnet
